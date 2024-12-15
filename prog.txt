@@ -1,0 +1,4 @@
+SEA 7EF
+ADD 4
+MUL 40
+STA 8
